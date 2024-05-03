@@ -1,0 +1,6 @@
+[book]
+authors = ["Giovanni Condello"]
+language = "en"
+multilingual = false
+src = "."
+title = "ISTIO Course"

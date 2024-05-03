@@ -1,0 +1,1 @@
+brew instal mdbook k3d istioctl
