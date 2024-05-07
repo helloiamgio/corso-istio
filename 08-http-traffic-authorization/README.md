@@ -10,10 +10,17 @@
 
 ![Authz](./authz-eval.svg)
 
+
 ### An example policy
 
 ```yaml
 {{#include example-policy.yaml}}
+```
+
+### An example policy to allow traffic just form my namespace
+
+```yaml
+{{#include allow-self.yaml}}
 ```
 
 ## An example

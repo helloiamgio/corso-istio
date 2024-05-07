@@ -4,7 +4,7 @@
 - [istio Install](./02-istio-install/README.md)
 - [Services & Gateways](./03-services-and-gateways/README.md)
 - [Version control](./05-version-control/README.md)
-- [Observability](./04-observability/REDME.md)
+- [Observability](./04-observability/README.md)
 - [Traffic shifting](./06-traffic-shifting/README.md)
 - [Authentication](./07-auth/README.md)
 - [HTTP Traffic Authorization](./08-http-traffic-authorization/README.md)

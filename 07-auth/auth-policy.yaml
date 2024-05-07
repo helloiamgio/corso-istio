@@ -2,7 +2,6 @@ apiVersion: security.istio.io/v1beta1
 kind: PeerAuthentication
 metadata:
   name: "example-peer-policy"
-  namespace: "foo"
 spec:
   selector:
     matchLabels:
